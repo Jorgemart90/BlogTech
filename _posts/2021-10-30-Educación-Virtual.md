@@ -57,7 +57,7 @@ Mi segunda opción, una que me gustó desde que la conocí es un dado, o mejor d
 
 De nuevo, uno de sus atractivos es que lo puedes llevar a cualquier parte. Además, contiene un montón de aplicaciones útiles para el aula, sobre todo relacionadas con materias STEAM, pero lo mejor de todo es que puedes crear tus propios contenidos para el aula.
 
-<iframe width="709" height="399" src="https://www.youtube.com/embed/v7PphiqfLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="709" height="399" src="https://www.youtube.com/embed/HdEG8VUNVfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Pros:**
 
