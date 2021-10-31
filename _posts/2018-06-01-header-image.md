@@ -19,9 +19,9 @@ En Xataka Basics vamos a intentar explicarlo de la manera más sencilla posible.
 
 ![](https://i.blogs.es/1039b1/metaverso-salon/1366_2000.jpeg)
 
-<div style="text-align: justify"><br>
-## Qué es el metaverso
 
+## Qué es el metaverso
+<div style="text-align: justify"><br>
 El Metaverso es un mundo virtual, uno al que nos conectaremos utilizando una serie de dispositivos que nos harán pensar que realmente estamos dentro de él, interactuando con todos sus elementos. Será como realmente teletransportarse a un mundo totalmente nuevo a través de gafas de realidad virtual y otros complementos que nos permitirán interactuar con él.
 
 Los mundos virtuales no son nada nuevo, y existen una gran cantidad de ellos, sobre todo en el sector de los videojuegos. Tú te creas un personaje o avatar, y te adentras en ese mundo a vivir aventuras a través de tu ordenador. Sin embargo, el metaverso no busca ser un mundo de fantasía, sino una especie de realidad alternativa en la que podremos hacer las mismas cosas que hacemos hoy en día fuera de casa, pero sin movernos de la habitación.
