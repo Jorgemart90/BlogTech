@@ -1,6 +1,6 @@
 ---
 title: Educación Virtual
-tags: educción, virtualidad
+tags: educación, virtualidad
 ---
 
 Saludos, en este espacio estaremos hablando un poco sobre la educación virtual, que herramientas nos ayudan en este proceso, que avances y novedades llegan hoy.
@@ -59,6 +59,8 @@ Mi segunda opción, una que me gustó desde que la conocí es un dado, o mejor d
 De nuevo, uno de sus atractivos es que lo puedes llevar a cualquier parte. Además, contiene un montón de aplicaciones útiles para el aula, sobre todo relacionadas con materias STEAM, pero lo mejor de todo es que puedes crear tus propios contenidos para el aula.
 
 **Click para ver el video** : [El Merge Cube](https://youtu.be/HdEG8VUNVfA) 
+
+<iframe width="709" height="399" src="https://www.youtube.com/embed/v7PphiqfLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Pros:**
 
