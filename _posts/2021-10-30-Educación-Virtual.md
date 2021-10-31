@@ -35,9 +35,11 @@ Probablemente ya conoces a Amparo, su muñeca de realidad aumentada que nos perm
 Pues ahora han sacado una baraja de cartas que permite llevarlo a cualquier parte. ¡Con lo que me gustan las cartas!
 
 Cada carta tiene un órgano sobre el que situaremos nuestro dispositivo para verlo en nuestra realidad y profundizar sobre el funcionamiento de ese órgano. Encontramos el corazón, los músculos, el ojo, el oído, los órganos reproductores (sabía que este te iba a interesar! así es todo mucho más fácil de explicar)…  un total 11 de cartas que nos ayudarán a trabajar el cuerpo humano no solo en el aula, también en casa.
-</div>
+</div><br>
 
 <iframe width="709" height="399" src="https://www.youtube.com/embed/v7PphiqfLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 <div style="text-align: justify">
 **Pros:**
 
@@ -57,9 +59,10 @@ Cada carta tiene un órgano sobre el que situaremos nuestro dispositivo para ver
 Mi segunda opción, una que me gustó desde que la conocí es un dado, o mejor dicho, un cubo: El Merge Cube. Otro componente lúdico que nos da más de lo aparentemente obvio. Y eso de explorar cosas ¡me encanta!
 
 De nuevo, uno de sus atractivos es que lo puedes llevar a cualquier parte. Además, contiene un montón de aplicaciones útiles para el aula, sobre todo relacionadas con materias STEAM, pero lo mejor de todo es que puedes crear tus propios contenidos para el aula.
-</div>
+</div><br>
 
 <iframe width="709" height="399" src="https://www.youtube.com/embed/HdEG8VUNVfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <div style="text-align: justify">
 **Pros:**
 
