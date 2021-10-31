@@ -7,15 +7,15 @@ Saludos, en este espacio estaremos hablando un poco sobre la educación virtual,
 
 # Realidad Aumentada en el aula
 ![](https://images.unsplash.com/photo-1587573089734-09cb69c0f2b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80)
-<div style="text-align: justify">
-# ¿Qué es la realidad aumentada?
 
+# ¿Qué es la realidad aumentada?
+<div style="text-align: justify">
 La realidad aumentada, RA o AR, es una herramienta tecnológica que nos permite visualizar contenidos insertados en el mundo real a través de un dispositivo. Esto quiere decir que, vemos al mismo tiempo dos tipos de contenidos diferentes que se enriquecen mutuamente y que puede utilizarlo cualquiera, en cualquier momento, con un dispositivo ¡Autonomía al poder!
 
 En los últimos años, la realidad aumentada ha golpeado con fuerza la educación como elemento motivador, casi de juego, que impregna el aprendizaje y que lo hace más inmersivo y contextualizado a partir de diferentes simulaciones que nos permiten acceder a la información, multimodal,  que propulsa la experiencia para ser significativa.
-
+</div><br>
 ### Algunas de sus principales ventajas en torno al aprendizaje son:
-
+<div style="text-align: justify">
     1. Facilita la comprensión de los contenidos y los enriquece y amplia accediendo de un vistazo a toda la información.
     2. Promueve el autoaprendizaje a partir de elementos motivadores que promueven la curiosidad y el descubrimiento.
     3. Mejora el razonamiento espacial dado que se necesita un dispositivo y trabaja por capas.
@@ -23,9 +23,9 @@ En los últimos años, la realidad aumentada ha golpeado con fuerza la educació
     5. Mejora algunos de los procesos cognitivos básicos y complejos: percepción, atención, memoria, pensamiento y lenguaje.
     6. Trabaja a partir de escenarios de aprendizaje y eso facilita contextualizar los contenidos.
     7. Mejora la motivación y el uso de pequeños “gadgets” tecnológicos o con potencial tecnológico mejora la implicación y el compromiso.
-
+</div><br>
 ### Dos buenos recursos lúdicos de AR para el aula
-
+<div style="text-align: justify">
 Aunque actualmente hay muchísimas aplicaciones de realidad aumentada (diría que muchas de ellas con un enfoque STEAM) y muchas de ellas con un tono lúdico (véase Pokemon, Catan, Harry Potter…) lo cierto es que hoy, solo os voy a mostrar dos recursos que me gustan especialmente para trabajar con AR porque tienen un formato muy lúdico: unas cartas y un dado.
 
 Empezamos con las cartas. Se trata de las nuevas Body Cards AR de Body Planet.
