@@ -7,7 +7,7 @@ Saludos, en este espacio estaremos hablando un poco sobre la educación virtual,
 
 # Realidad Aumentada en el aula
 ![](https://images.unsplash.com/photo-1587573089734-09cb69c0f2b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80)
-
+<div style="text-align: justify">
 # ¿Qué es la realidad aumentada?
 
 La realidad aumentada, RA o AR, es una herramienta tecnológica que nos permite visualizar contenidos insertados en el mundo real a través de un dispositivo. Esto quiere decir que, vemos al mismo tiempo dos tipos de contenidos diferentes que se enriquecen mutuamente y que puede utilizarlo cualquiera, en cualquier momento, con un dispositivo ¡Autonomía al poder!
@@ -35,9 +35,10 @@ Probablemente ya conoces a Amparo, su muñeca de realidad aumentada que nos perm
 Pues ahora han sacado una baraja de cartas que permite llevarlo a cualquier parte. ¡Con lo que me gustan las cartas!
 
 Cada carta tiene un órgano sobre el que situaremos nuestro dispositivo para verlo en nuestra realidad y profundizar sobre el funcionamiento de ese órgano. Encontramos el corazón, los músculos, el ojo, el oído, los órganos reproductores (sabía que este te iba a interesar! así es todo mucho más fácil de explicar)…  un total 11 de cartas que nos ayudarán a trabajar el cuerpo humano no solo en el aula, también en casa.
+</div>
 
 <iframe width="709" height="399" src="https://www.youtube.com/embed/v7PphiqfLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="text-align: justify">
 **Pros:**
 
     Los beneficios de la simulación la realidad aumentada para comprender un concepto de manera más clara.
@@ -56,9 +57,10 @@ Cada carta tiene un órgano sobre el que situaremos nuestro dispositivo para ver
 Mi segunda opción, una que me gustó desde que la conocí es un dado, o mejor dicho, un cubo: El Merge Cube. Otro componente lúdico que nos da más de lo aparentemente obvio. Y eso de explorar cosas ¡me encanta!
 
 De nuevo, uno de sus atractivos es que lo puedes llevar a cualquier parte. Además, contiene un montón de aplicaciones útiles para el aula, sobre todo relacionadas con materias STEAM, pero lo mejor de todo es que puedes crear tus propios contenidos para el aula.
+</div>
 
 <iframe width="709" height="399" src="https://www.youtube.com/embed/HdEG8VUNVfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="text-align: justify">
 **Pros:**
 
     Muy manejable y en un solo cubo muchos recursos disponibles
@@ -70,3 +72,4 @@ De nuevo, uno de sus atractivos es que lo puedes llevar a cualquier parte. Adem�
 
     Se necesita formación o tiempo para aprender a crear contenidos
     Para aprovechar al máximo las opciones de creación se necesita el AddOn de Merge Cube que es de pago y una licencia educativa de Cospace.
+</div>
