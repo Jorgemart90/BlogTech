@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Metaverso
 tags: Metaverso, facebook, Zuckerberg, realidad aumentada
 ---
 
@@ -21,6 +21,7 @@ En Xataka Basics vamos a intentar explicarlo de la manera más sencilla posible.
 
 
 ## Qué es el metaverso
+
 <div style="text-align: justify"><br>
 El Metaverso es un mundo virtual, uno al que nos conectaremos utilizando una serie de dispositivos que nos harán pensar que realmente estamos dentro de él, interactuando con todos sus elementos. Será como realmente teletransportarse a un mundo totalmente nuevo a través de gafas de realidad virtual y otros complementos que nos permitirán interactuar con él.
 
