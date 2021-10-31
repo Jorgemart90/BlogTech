@@ -6,7 +6,7 @@ tags: educción, virtualidad
 Saludos, en este espacio estaremos hablando un poco sobre la educación virtual, que herramientas nos ayudan en este proceso, que avances y novedades llegan hoy.
 
 # Realidad Aumentada en el aula
-(https://www.agorabierta.com/wp-content/uploads/2020/11/mika-baumeister-sWVAxoLmIzY-unsplash-300x240.jpg)
+![](https://images.unsplash.com/photo-1587573089734-09cb69c0f2b4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=725&q=80)
 
 # ¿Qué es la realidad aumentada?
 
