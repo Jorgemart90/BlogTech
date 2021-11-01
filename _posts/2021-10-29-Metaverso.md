@@ -13,7 +13,7 @@ Vamos a intentar explicarte qué es exactamente el Metaverso, ese concepto de mu
 En Xataka Basics vamos a intentar explicarlo de la manera más sencilla posible. Así, todos podremos tener una idea aproximada de qué es exactamente este metaverso. Además, también intentaremos decirte algunas de las posibilidades que va a ofrecer, y darte una noción de cuánto falta y qué se necesita para que este concepto se convierta en realidad.
 </div><br>
 
-<iframe width="320" height="320" src="https://www.youtube.com/embed/vlj77eQFN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" height="290" src="https://www.youtube.com/embed/vlj77eQFN6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
